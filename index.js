@@ -11,7 +11,7 @@ const questions = [
     },{
         type:'input',
         message:"Description of your project",
-        name:'discription',
+        name:'description',
     },{
         type:'input',
         message:"Table of Content",
@@ -41,10 +41,6 @@ const questions = [
         type:'input',
         message:"Test",
         name:'test',
-    },{
-        type:'input',
-        message:"Questions",
-        name:'question',
     },{
         type:'input',
         message:"What is your GitHub username",

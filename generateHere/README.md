@@ -1,11 +1,12 @@
 
 # Project Title
-
+Readme Generator
 
 # Description
-undefined
+Build a markdown Readme file
 
-# Table of Contents 
+# Table of Contents
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#installation)
@@ -14,21 +15,21 @@ undefined
 * [Questions](#contact-information)
     
 # Installation
-
+NA
 
 # Usage
-
+build a readme file
 
 # License 
 None
 * As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
 
 # Contributing 
-
+Kevin
 
 # Tests
-undefined
+NA
 
 # Contact Information 
-* GitHub Username: undefined
-* Contact Email: 
+* GitHub Username: kevin@github
+* Contact Email: kevin@gmail.com

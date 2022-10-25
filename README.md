@@ -13,6 +13,9 @@ Node and Inquirier package was need to be install on your computer and inside th
 https://github.com/realkevinC/Professional-README-Generator
 <img src="/Users/kevinchen/bcs/finished-work/ReadmeGenerator/assets/Screen Shot 2022-10-20 at 4.38.55 PM.png">
 
+Tutorial Video
+https://drive.google.com/file/d/1yF6jdFFyNffimHdCSYZemXi5vd9Ab8Ze/view?usp=sharing
+
 ## Usage
 
 When user clones the repo they need to first need to npm install then  npm install inquirier. Once those are install to start the program user need to open the terminal for this folder and run "node index.js". Then question will show in the terminal and user will answer the question. Once they finished answering then a professional README file will be created.
